@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Besties Pet Pantry</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Besties Pet Pantry</h1>
+            <p>Tu tienda de confianza para mascotas y animales</p>
+        </div>
+    </header>
+
+    <nav>
+        <div class="container">
+            <ul>
+                <li><a href="#">Inicio</a></li>
+                <li><a href="#">Productos</a></li>
+                <li><a href="#">Recursos</a></li>
+                <li><a href="#">Contacto</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <section>
+        <div class="container">
+            <h2>Bienvenido a Besties Pet Pantry</h2>
+            <p>Somos tu tienda de confianza para productos de mascotas y animales. Ofrecemos una amplia variedad de alimentos, juguetes, accesorios y más para ayudarte a cuidar a tus queridas mascotas.</p>
+            <p>Además de nuestra selección de productos de alta calidad, también proporcionamos información y recursos útiles para el cuidado y bienestar de tus mascotas. ¡Explora nuestra tienda y descubre todo lo que tenemos para ofrecer!</p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>© 2024 Besties Pet Pantry. Todos los derechos reservados.</p>
+        </div>
+    </footer>
+</body>
+</html>
